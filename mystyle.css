@@ -1,0 +1,12 @@
+/*h1 { color: blue; }*/
+h1 { color: rgb(105, 128, 0); }
+
+/*th,td{border:dashed thick black}*/
+
+th,td{border:solid thick #804900}
+
+th.important{color:red;}
+
+p.sample1{border:double 10px #0000ff;}
+p.sample2{border:inset 10px rgb(187, 255, 0);}
+p.sample3{margin:30px 30px;padding: 10px;border:medium solid #ff00ff;}

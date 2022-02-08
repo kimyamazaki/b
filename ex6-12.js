@@ -9,3 +9,5 @@ function hyoji2(){   //表示する文字
     else{
     //全て表示されたら、空文字に戻す
     document.timer2.moji2.value= "";}}
+
+    
